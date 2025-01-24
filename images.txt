@@ -4,5 +4,5 @@ alpine
 debian
 nginx
 mysql
-jellyfin/jellyfin
+jellyfin
 

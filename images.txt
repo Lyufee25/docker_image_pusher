@@ -7,4 +7,3 @@ mysql
 jellyfin/jellyfin
 filebrowser/filebrowser
 rustdesk/rustdesk-server
-postgresql

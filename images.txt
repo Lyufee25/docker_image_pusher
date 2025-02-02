@@ -7,3 +7,6 @@ mysql
 jellyfin/jellyfin
 filebrowser/filebrowser
 rustdesk/rustdesk-server
+newfuture/ddns
+postgres
+syncthing/syncthing

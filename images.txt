@@ -10,3 +10,4 @@ rustdesk/rustdesk-server
 newfuture/ddns
 postgres
 syncthing/syncthing
+caddy

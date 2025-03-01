@@ -11,4 +11,4 @@ newfuture/ddns
 postgres
 syncthing/syncthing
 caddy
-ghcr.io/toeverything/affine
+toeverything/affine

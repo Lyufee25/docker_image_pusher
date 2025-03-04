@@ -12,3 +12,4 @@ postgres
 syncthing/syncthing
 caddy
 joplin/server
+postgres:13

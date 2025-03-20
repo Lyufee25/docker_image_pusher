@@ -15,3 +15,4 @@ joplin/server
 postgres:13
 postgres:16
 redis
+cloudflare/cloudflared

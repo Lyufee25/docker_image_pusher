@@ -1,3 +1,4 @@
+jupyter/scipy-notebook
 golang:1.23
 alpine:3
 alpine

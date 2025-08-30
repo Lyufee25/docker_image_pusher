@@ -1,4 +1,3 @@
-jupyter/scipy-notebook
 golang:1.23
 alpine:3
 alpine
@@ -7,13 +6,13 @@ nginx
 mysql
 jellyfin/jellyfin
 filebrowser/filebrowser
-rustdesk/rustdesk-server
 newfuture/ddns
 postgres
 syncthing/syncthing
 caddy
-joplin/server
 postgres:13
 postgres:16
 redis
 cloudflare/cloudflared
+ghcr.io/toeverything/affine:stable
+pgvector/pgvector:pg16

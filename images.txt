@@ -16,3 +16,4 @@ redis
 cloudflare/cloudflared
 ghcr.io/toeverything/affine:stable
 pgvector/pgvector:pg16
+jenkins

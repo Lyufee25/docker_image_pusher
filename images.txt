@@ -1,1 +1,1 @@
-soroke/istoreos:22.03.7-2025050912-x86-64
+openjdk:17-jdk-slim
